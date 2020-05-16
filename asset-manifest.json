@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nasyademo/static/css/main.931230b8.chunk.css",
-    "main.js": "/nasyademo/static/js/main.8e461231.chunk.js",
-    "main.js.map": "/nasyademo/static/js/main.8e461231.chunk.js.map",
+    "main.js": "/nasyademo/static/js/main.54c9cbfc.chunk.js",
+    "main.js.map": "/nasyademo/static/js/main.54c9cbfc.chunk.js.map",
     "runtime-main.js": "/nasyademo/static/js/runtime-main.59293424.js",
     "runtime-main.js.map": "/nasyademo/static/js/runtime-main.59293424.js.map",
     "static/js/2.73190439.chunk.js": "/nasyademo/static/js/2.73190439.chunk.js",
     "static/js/2.73190439.chunk.js.map": "/nasyademo/static/js/2.73190439.chunk.js.map",
     "index.html": "/nasyademo/index.html",
-    "precache-manifest.349a05c64aeba5172fc79187b402a2c4.js": "/nasyademo/precache-manifest.349a05c64aeba5172fc79187b402a2c4.js",
+    "precache-manifest.639097cbcdf0d15350107886c881da6e.js": "/nasyademo/precache-manifest.639097cbcdf0d15350107886c881da6e.js",
     "service-worker.js": "/nasyademo/service-worker.js",
     "static/css/main.931230b8.chunk.css.map": "/nasyademo/static/css/main.931230b8.chunk.css.map",
     "static/js/2.73190439.chunk.js.LICENSE.txt": "/nasyademo/static/js/2.73190439.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.59293424.js",
     "static/js/2.73190439.chunk.js",
     "static/css/main.931230b8.chunk.css",
-    "static/js/main.8e461231.chunk.js"
+    "static/js/main.54c9cbfc.chunk.js"
   ]
 }
